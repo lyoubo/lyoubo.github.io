@@ -1,1 +1,1 @@
-# lyoubo.github.io
+GitHub repo for Bo Liu's website.
