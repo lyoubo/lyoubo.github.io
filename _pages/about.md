@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am currently working toward the Ph.D degree at the School of Computer Science and Technology, [Beijing Institute of Technology](https://www.bit.edu.cn/), under the supervision of [Dr. Hui Liu](https://liuhuigmail.github.io/) (*Beijing Institute of Technology*). My research interests include software refactoring, software evolution, and AI for SE.
+I am currently working toward the Ph.D degree at the School of Computer Science and Technology, [Beijing Institute of Technology](https://www.bit.edu.cn/), under the supervision of [Dr. Hui Liu](https://liuhuigmail.github.io/) (*Beijing Institute of Technology*). My research interests include software refactoring, software evolution, and LLM for SE.
 
 Education
 ======
@@ -20,6 +20,7 @@ Education
 
 News
 ======
+* **August 7, 2024**: One research paper on god class decomposition and software refactoring was accepted by ASE 2024.
 * **July 18, 2023**: One research paper on software entity matching and refactoring discovery was accepted by ASE 2023.
 * **May 5, 2023**: One research paper on feature envy detection and software refactoring was accepted by ESEC/FSE 2023.
 
