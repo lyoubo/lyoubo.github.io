@@ -21,9 +21,9 @@ I am currently working toward the Ph.D degree at the School of Computer Science 
 
 My research interest includes **Software Refactoring**, **Software Evolution**, and **LLM for SE**. I have published at the top international SE conferences such as **ESEC/FSE** and **ASE**.  I developed a few well-known approaches including:
 
-- **[ReExtractor]()**: refactoring detection
+- **[ReExtractor](https://github.com/lyoubo/ReExtractor)**: refactoring detection
 - **[ReMapper](https://github.com/lyoubo/ReMapper)**: code entity matching
-- **[feTruth](https://github.com/lyoubo/feTruth)**: feature envy detection (Huawei)
+- **[feTruth](https://github.com/lyoubo/feTruth)**: feature envy detection (Sponsored by Huawei **[Huawei](https://bbs.huaweicloud.com/blogs/416188?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)**)
 
 
 # 🔥 News
