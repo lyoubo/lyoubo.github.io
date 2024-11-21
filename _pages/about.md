@@ -33,16 +33,16 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 
 # 📝 Publications 
 
-- **[Automated Software Entity Matching Between Successive Versions](https://ieeexplore.ieee.org/document/10298353)** &nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>
-  **Bo Liu**, Hui Liu, Nan Niu, Yuxia Zhang, Guangjie Li, and Yanjie Jiang
+- **[Automated Software Entity Matching Between Successive Versions](https://ieeexplore.ieee.org/document/10298353)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
+  **Bo Liu**, Hui Liu, Nan Niu, Yuxia Zhang, Guangjie Li, and Yanjie Jiang\
   In: *The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)*, September 11-15, 2023, Kirchberg, Luxembourg
 
-- **[Deep Learning Based Feature Envy Detection Boosted by Real-World Examples](https://dl.acm.org/doi/abs/10.1145/3611643.3616353)** &nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>
-  **Bo Liu**, Hui Liu, Guangjie Li, Nan Niu, Zimao Xu, Yifan Wang, Yunni Xia, Yuxia Zhang, and Yanjie Jiang
+- **[Deep Learning Based Feature Envy Detection Boosted by Real-World Examples](https://dl.acm.org/doi/abs/10.1145/3611643.3616353)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
+  **Bo Liu**, Hui Liu, Guangjie Li, Nan Niu, Zimao Xu, Yifan Wang, Yunni Xia, Yuxia Zhang, and Yanjie Jiang\
   In: *The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)*, December 3-9, 2023, San Francisco, CA, USA
 
-- **[A Position-Aware Approach to Decomposing God Classes](https://dl.acm.org/doi/abs/10.1145/3691620.3694992)** &nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>
-  Tianyi Chen, Yanjie Jiang, Fu Fan, **Bo Liu**, Hui Liu
+- **[A Position-Aware Approach to Decomposing God Classes](https://dl.acm.org/doi/abs/10.1145/3691620.3694992)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
+  Tianyi Chen, Yanjie Jiang, Fu Fan, **Bo Liu**, Hui Liu\
   In: *The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)*, October 27-1 November, 2024, Sacramento, CA, USA
 
 
