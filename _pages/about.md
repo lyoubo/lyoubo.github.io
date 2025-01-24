@@ -27,6 +27,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 One paper was accepted by TSE 2025.
 - *2024.08*: &nbsp;🎉 One paper was accepted by ASE 2024.
 - *2023.07*: &nbsp;🎉 One paper was accepted by ASE 2023. 
 - *2023.05*: &nbsp;🎉 One paper was accepted by ESEC/FSE 2023.
@@ -44,6 +45,11 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 - **[A Position-Aware Approach to Decomposing God Classes](https://dl.acm.org/doi/abs/10.1145/3691620.3694992)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   Tianyi Chen, Yanjie Jiang, Fu Fan, **Bo Liu**, Hui Liu\
   In: *The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)*, October 27-1 November, 2024, Sacramento, CA, USA
+  
+- **[Deep learning-based software engineering: progress, challenges, and opportunities](https://link.springer.com/article/10.1007/s11432-023-4127-5)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
+  **Bo Liu**, et al. († All authors have the same contribution)\
+  In: *SCIENCE CHINA Information Sciences (SCIS 2025)*, January 2025
+  
 
 
 # 🎖 Honors and Awards
@@ -55,6 +61,6 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 - *2017.06* Outstanding Graduate of Jiangsu University
 
 # 📖 Educations
-- *2021.09 - Now*, Ph.D student, Beijing Institute of Technology. 
+- *2021.09 - Present*, Ph.D student, Beijing Institute of Technology. 
 - *2018.09 - 2021.06*, Master, Jiangsu University. 
 - *2013.09 - 2017.06*, Bachelor, Jiangsu University.
