@@ -55,12 +55,12 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 # 🎖 Honors and Awards
 - *2024.11* Academic Excellence Scholarship of Beijing Institute of Technology
 - *2023.12* Huarui Century Scholarship (Top 2%)
-- *2023.12* Outstanding student in Beijing Institute of Technology
+- *2023.12* Outstanding Student in Beijing Institute of Technology
 - *2021.06* Outstanding Master's Thesis Award in Jiangsu University
 - *2021.06* Outstanding Graduate of Jiangsu University
 - *2017.06* Outstanding Graduate of Jiangsu University
 
 # 📖 Educations
-- *2021.09 - Present*, Ph.D student, Beijing Institute of Technology. 
+- *2021.09 - Present*, Ph.D Student, Beijing Institute of Technology. 
 - *2018.09 - 2021.06*, Master, Jiangsu University. 
 - *2013.09 - 2017.06*, Bachelor, Jiangsu University.
