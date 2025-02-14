@@ -27,6 +27,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉 One paper was accepted by ASE 2025.
 - *2025.01*: &nbsp;🎉 One paper was accepted by TSE 2025.
 - *2024.08*: &nbsp;🎉 One paper was accepted by ASE 2024.
 - *2024.04*: &nbsp;🎉 One paper was accepted by SCIS 2024.
