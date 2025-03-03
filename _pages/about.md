@@ -36,7 +36,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 
 # 📝 Publications 
 
-- **[An Automated Approach to Discovering Software Refactorings by Comparing Successive Versions](https://ieeexplore.ieee.org/abstract/document/10855639)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
+- **[An Automated Approach to Discovering Software Refactorings by Comparing Successive Versions](https://ieeexplore.ieee.org/abstract/document/10855639)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A, SCI一区)</span>\
   **Bo Liu**, Hui Liu, Nan Niu, Yuxia Zhang, Guangjie Li, He Jiang, and Yanjie Jiang\
   In: *IEEE Transactions on Software Engineering (TSE 2025)*, January 2025
 - **[Automated Software Entity Matching Between Successive Versions](https://ieeexplore.ieee.org/document/10298353)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
@@ -45,6 +45,9 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 - **[Deep Learning Based Feature Envy Detection Boosted by Real-World Examples](https://dl.acm.org/doi/abs/10.1145/3611643.3616353)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   **Bo Liu**, Hui Liu, Guangjie Li, Nan Niu, Zimao Xu, Yifan Wang, Yunni Xia, Yuxia Zhang, and Yanjie Jiang\
   In: *The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)*, December 3-9, 2023, San Francisco, CA, USA
+- **[Exploring the potential of general purpose LLMs in automated software refactoring: An empirical study](https://link.springer.com/article/10.1007/s10515-025-00500-0)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-B, SCI一区)</span>\
+  **Bo Liu**, Yanjie Jiang, Yuxia Zhang, Nan Niu, , Guangjie Li, and Hui Liu\
+  In: *Automated Software Engineering (ASE 2025)*, March 2025
 - **[Deep learning-based software engineering: progress, challenges, and opportunities](https://link.springer.com/article/10.1007/s11432-023-4127-5)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   **Bo Liu**, et al. († All authors have the same contribution)\
   In: *SCIENCE CHINA Information Sciences (SCIS 2024)*, December 2024
