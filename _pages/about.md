@@ -27,7 +27,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉 One paper was accepted by ASE 2025.
+- *2025.02*: &nbsp;🎉 One paper was accepted by ASEJ 2025.
 - *2025.01*: &nbsp;🎉 One paper was accepted by TSE 2025.
 - *2024.08*: &nbsp;🎉 One paper was accepted by ASE 2024.
 - *2024.04*: &nbsp;🎉 One paper was accepted by SCIS 2024.
@@ -46,8 +46,8 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
   **Bo Liu**, Hui Liu, Guangjie Li, Nan Niu, Zimao Xu, Yifan Wang, Yunni Xia, Yuxia Zhang, and Yanjie Jiang\
   In: *The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)*, December 3-9, 2023, San Francisco, CA, USA
 - **[Exploring the potential of general purpose LLMs in automated software refactoring: An empirical study](https://link.springer.com/article/10.1007/s10515-025-00500-0)**&nbsp;<span style="color:red;font-weight:bold;">(SCI一区)</span>\
-  **Bo Liu**, Yanjie Jiang, Yuxia Zhang, Nan Niu, , Guangjie Li, and Hui Liu\
-  In: *Automated Software Engineering (ASE 2025)*, March 2025
+  **Bo Liu**, Yanjie Jiang, Yuxia Zhang, Nan Niu, Guangjie Li, and Hui Liu\
+  In: *Automated Software Engineering (ASEJ 2025)*, March 2025
 - **[Deep learning-based software engineering: progress, challenges, and opportunities](https://link.springer.com/article/10.1007/s11432-023-4127-5)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   **Bo Liu**, et al. († All authors have the same contribution)\
   In: *SCIENCE CHINA Information Sciences (SCIS 2024)*, December 2024
