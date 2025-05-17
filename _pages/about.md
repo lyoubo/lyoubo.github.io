@@ -27,6 +27,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 Beijing Institute of Technology Outstanding Doctoral Dissertation Cultivation Foundation.
 - *2025.02*: &nbsp;🎉 One paper was accepted by ASEJ 2025.
 - *2025.01*: &nbsp;🎉 One paper was accepted by TSE 2025.
 - *2024.08*: &nbsp;🎉 One paper was accepted by ASE 2024.
@@ -66,5 +67,6 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 
 # 📖 Educations
 - *2021.09 - Present*, Ph.D Student, Beijing Institute of Technology. 
-- *2018.09 - 2021.06*, Master, Jiangsu University. 
+- *2018.09 - 2021.06*, Master, Jiangsu Provincial Key Laboratory of Industrial Network Security Technology. 
+- *2017.09 - 2018.06*, RA, Jiangsu Provincial Key Laboratory of Industrial Network Security Technology. 
 - *2013.09 - 2017.06*, Bachelor, Jiangsu University.
