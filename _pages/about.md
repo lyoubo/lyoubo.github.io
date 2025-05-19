@@ -29,7 +29,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 Beijing Institute of Technology Outstanding Doctoral Dissertation Cultivation Foundation.
 - *2025.02*: &nbsp;🎉 One paper was accepted by ASEJ 2025.
-- *2025.01*: &nbsp;🎉 One paper was accepted by TSE 2025.
+- *2025.02*: &nbsp;🎉 One paper was accepted by TSE 2025.
 - *2024.08*: &nbsp;🎉 One paper was accepted by ASE 2024.
 - *2024.04*: &nbsp;🎉 One paper was accepted by SCIS 2024.
 - *2023.07*: &nbsp;🎉 One paper was accepted by ASE 2023. 
@@ -39,7 +39,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 
 - **[An Automated Approach to Discovering Software Refactorings by Comparing Successive Versions](https://ieeexplore.ieee.org/abstract/document/10855639)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   **Bo Liu**, Hui Liu, Nan Niu, Yuxia Zhang, Guangjie Li, He Jiang, and Yanjie Jiang\
-  In: *IEEE Transactions on Software Engineering (TSE 2025)*, January 2025
+  In: *IEEE Transactions on Software Engineering (TSE 2025)*, May 2025
 - **[Automated Software Entity Matching Between Successive Versions](https://ieeexplore.ieee.org/document/10298353)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   **Bo Liu**, Hui Liu, Nan Niu, Yuxia Zhang, Guangjie Li, and Yanjie Jiang\
   In: *The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)*, September 11-15, 2023, Kirchberg, Luxembourg
