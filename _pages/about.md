@@ -57,7 +57,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
   In: *The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)*, October 27-1 November, 2024, Sacramento, CA, USA
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.11* Academic Excellence Scholarship of Beijing Institute of Technology
 - *2023.12* Huarui Century Scholarship (Top 2%)
 - *2023.12* Outstanding Student in Beijing Institute of Technology
