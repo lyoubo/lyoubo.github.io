@@ -51,7 +51,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
   In: *Automated Software Engineering (ASEJ 2025)*, March 2025
 - **[Deep learning-based software engineering: progress, challenges, and opportunities](https://link.springer.com/article/10.1007/s11432-023-4127-5)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   **Bo Liu**, et al. († All authors have the same contribution)\
-  In: *SCIENCE CHINA Information Sciences (SCIS 2024)*, December 2024
+  In: *SCIENCE CHINA Information Sciences (SCIS 2024)*, January 2025
 - **[A Position-Aware Approach to Decomposing God Classes](https://dl.acm.org/doi/abs/10.1145/3691620.3694992)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   Tianyi Chen, Yanjie Jiang, Fu Fan, **Bo Liu**, Hui Liu\
   In: *The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)*, October 27-1 November, 2024, Sacramento, CA, USA
