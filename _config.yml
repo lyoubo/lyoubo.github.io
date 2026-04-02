@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bo Liu's Homepage"
-description              : "I am interested in LLMs, software engineering, and data mining."
+description              : "My research interests include LLMs, software engineering, and data mining."
 repository               : "lyoubo/lyoubo.github.io"
 google_scholar_stats_use_cdn : true
 
