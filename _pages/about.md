@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working toward the Ph.D degree at the School of Computer Science and Technology, **[Beijing Institute of Technology](https://www.bit.edu.cn/)**, under the supervision of **[Prof. Hui Liu](https://liuhuigmail.github.io/)**. I also obtained Master’s degree at Jiangsu University, under the supervision of **[Prof. Jinfu Chen](https://cs.ujs.edu.cn/info/1508/30277.htm)**.
+I have joined the College of Cryptology and Cyber Science at Nankai University.  I am a member of  **[NKSSecLab](https://nksseclab.github.io/)](https://nksseclab.github.io/)**, lead by  **[Prof. Sen Chen](https://sen-chen.github.io/)**. I am also a member of the research group led by  **[Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm)**.
 
-My research interest includes **Software Refactoring**, **Software Evolution**, and **LLM for SE**. I have published at the top international SE conferences/journals such as **ESEC/FSE**, **ASE**, and **TSE**.  I developed a few well-known approaches including:
+I obtained Ph.D degree in the School of Computer Science and Technology at Beijing Institute of Technology, under the supervision of **[Prof. Hui Liu](https://liuhuigmail.github.io/)**. I also obtained Master’s degree at Jiangsu University, under the supervision of **[Prof. Jinfu Chen](https://cs.ujs.edu.cn/info/1508/30277.htm)**.
 
-- **[ReExtractor](https://github.com/lyoubo/ReExtractor)**: refactoring detection
-- **[ReMapper](https://github.com/lyoubo/ReMapper)**: code entity matching
-- **[feTruth](https://github.com/lyoubo/feTruth)**: feature envy detection (Sponsored by **[Huawei](https://bbs.huaweicloud.com/blogs/416188?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)**)
+My research interest includes **Software Refactoring**, **Software Evolution**, and **LLM for SE**. I have published at the top international SE conferences/journals such as **ESEC/FSE**, **ASE**, and **TSE**.
 
 
 # 🔥 News

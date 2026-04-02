@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bo Liu's Homepage"
-description              : "Ph.D Student at Beijing Institute of Technology."
+description              : "I work in software engineering research."
 repository               : "lyoubo/lyoubo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bo Liu"
   avatar           : "images/profile.png"
-  bio              : "Beijing Institute of Technology."
-  location         : "Beijing, China"
+  bio              : "Nankai University."
+  location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=C3pAa48AAAAJ"
-  email            : "liubo@bit.edu.cn"
+  email            : "liubo.bit@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
