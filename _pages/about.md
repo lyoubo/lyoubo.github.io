@@ -44,12 +44,12 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 - **[Deep Learning Based Feature Envy Detection Boosted by Real-World Examples](https://dl.acm.org/doi/abs/10.1145/3611643.3616353)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   **Bo Liu**, Hui Liu, Guangjie Li, Nan Niu, Zimao Xu, Yifan Wang, Yunni Xia, Yuxia Zhang, and Yanjie Jiang\
   In: *The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)*, December 3-9, 2023, San Francisco, CA, USA
-- **[Exploring the potential of general purpose LLMs in automated software refactoring: An empirical study](https://link.springer.com/article/10.1007/s10515-025-00500-0)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-B)</span>\
+- **[Exploring the potential of general purpose LLMs in automated software refactoring: An empirical study](https://link.springer.com/article/10.1007/s10515-025-00500-0)**&nbsp;<span style="font-weight:bold;">(CCF-B)</span>\
   **Bo Liu**, Yanjie Jiang, Yuxia Zhang, Nan Niu, Guangjie Li, and Hui Liu\
   In: *Automated Software Engineering (ASEJ 2025)*, March 2025
 - **[Deep learning-based software engineering: progress, challenges, and opportunities](https://link.springer.com/article/10.1007/s11432-023-4127-5)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
-  **Bo Liu**, et al. († All authors have the same contribution)\
-  In: *SCIENCE CHINA Information Sciences (SCIS 2024)*, January 2025
+  **Bo Liu**, et al.\
+  In: *SCIENCE CHINA Information Sciences (SCIS 2024)*, December 2024
 - **[A Position-Aware Approach to Decomposing God Classes](https://dl.acm.org/doi/abs/10.1145/3691620.3694992)**&nbsp;<span style="color:red;font-weight:bold;">(CCF-A)</span>\
   Tianyi Chen, Yanjie Jiang, Fu Fan, **Bo Liu**, Hui Liu\
   In: *The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)*, October 27-1 November, 2024, Sacramento, CA, USA
@@ -64,7 +64,7 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
 - *2017.06* Outstanding Graduate of Jiangsu University
 
 # 📖 Educations
-- *2021.09 - Present*, Ph.D Student, Beijing Institute of Technology. 
+- *2021.09 - 2025.09*, Ph.D, Beijing Institute of Technology. 
 - *2018.09 - 2021.06*, Master, Jiangsu Provincial Key Laboratory of Industrial Network Security Technology. 
 - *2017.09 - 2018.06*, RA, Jiangsu Provincial Key Laboratory of Industrial Network Security Technology. 
 - *2013.09 - 2017.06*, Bachelor, Jiangsu University.
