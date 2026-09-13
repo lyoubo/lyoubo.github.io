@@ -19,7 +19,7 @@ redirect_from:
 
 I have joined the College of Cryptology and Cyber Science at Nankai University.  I am a member of  **[NKSSecLab](https://nksseclab.github.io/)**, lead by  **[Prof. Sen Chen](https://sen-chen.github.io/)**. I am also a member of the research group led by  **[Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm)**. I obtained Ph.D degree in the School of Computer Science and Technology at Beijing Institute of Technology, under the supervision of **[Prof. Hui Liu](https://liuhuigmail.github.io/)**.
 
-My research interest includes **Software Refactoring**, **Software Evolution**, and **LLM for SE**. I have published at the top international SE conferences/journals such as **ESEC/FSE**, **ASE**, and **TSE**.
+My research interest includes **Program Analysis**, **Software Refactoring**, and **LLM for SE**. I have published at the top international SE conferences/journals such as **ESEC/FSE**, **ASE**, and **TSE**.
 
 
 # 🔥 News
@@ -52,17 +52,13 @@ My research interest includes **Software Refactoring**, **Software Evolution**, 
   Tianyi Chen, Yanjie Jiang, Fu Fan, **Bo Liu**, Hui Liu\
   In: *The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)*, October 27-1 November, 2024, Sacramento, CA, USA
 
+# 📫 Services
+
+- Journal Reviewer: IEEE Transactions on Software Engineering (TSE), Automated Software Engineering (ASEJ).
+- PC Member: ASE2026 Software Genomics Workshop
 
 # 🏆 Honors and Awards
-- *2024.11* Academic Excellence Scholarship of Beijing Institute of Technology
-- *2023.12* Huarui Century Scholarship (Top 2%)
-- *2023.12* Outstanding Student in Beijing Institute of Technology
-- *2021.06* Outstanding Master's Thesis Award in Jiangsu University
-- *2021.06* Outstanding Graduate of Jiangsu University
-- *2017.06* Outstanding Graduate of Jiangsu University
 
-# 📖 Educations
-- *2021.09 - 2025.09*, Ph.D, Beijing Institute of Technology. 
-- *2018.09 - 2021.06*, Master, Jiangsu Provincial Key Laboratory of Industrial Network Security Technology. 
-- *2017.09 - 2018.06*, RA, Jiangsu Provincial Key Laboratory of Industrial Network Security Technology. 
-- *2013.09 - 2017.06*, Bachelor, Jiangsu University.
+- *2024.11* Academic Excellence Scholarship of Beijing Institute of Technology
+- *2023.12* Huarui Century Scholarship
+- *2023.12* Outstanding Student in Beijing Institute of Technology
