@@ -54,7 +54,8 @@ My research interest includes **Program Analysis**, **Software Refactoring**, an
 
 # 📫 Services
 
-- Journal Reviewer: IEEE Transactions on Software Engineering (TSE), Automated Software Engineering (ASEJ).
+- Journal Reviewer: IEEE Transactions on Software Engineering (TSE), Automated Software Engineering (ASEJ), Journal of Software (JOS)
+- Conference Reviewer: Internetware2026 New Idea Track
 - PC Member: ASE2026 Software Genomics Workshop
 
 # 🏆 Honors and Awards
