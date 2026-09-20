@@ -19,7 +19,7 @@ redirect_from:
 
 I have joined the College of Cryptology and Cyber Science at Nankai University.  I am a member of  **[NKSSecLab](https://nksseclab.github.io/)**, lead by  **[Prof. Sen Chen](https://sen-chen.github.io/)**. I am also a member of the research group led by  **[Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm)**. I obtained Ph.D degree in the School of Computer Science and Technology at Beijing Institute of Technology, under the supervision of **[Prof. Hui Liu](https://liuhuigmail.github.io/)**.
 
-My research interest includes **Program Analysis**, **Software Refactoring**, and **LLM for SE**. I have published at the top international SE conferences/journals such as **ESEC/FSE**, **ASE**, and **TSE**.
+My research interest includes **AI4SE**, **Software Refactoring**, **Program Analysis**, and **Software Security**. I have published at the top international SE conferences/journals such as **ESEC/FSE**, **ASE**, and **TSE**.
 
 
 # 🔥 News
