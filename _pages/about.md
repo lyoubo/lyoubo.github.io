@@ -57,7 +57,7 @@ My research interest includes **AI4SE**, **Software Refactoring**, **Program Ana
 - Journal Reviewer: IEEE Transactions on Software Engineering (TSE), Automated Software Engineering (ASEJ), Journal of Software (JOS)
 - Conference Reviewer: Internetware2026 New Idea Track
 - PC Member: ASE2026 Software Genomics Workshop
-- Chair: ISSTA2026 Paper Preview Symposium
+- Chair: ISSTA2026 Paper Preview Symposium (CCF TCSE)
 
 # 🏆 Honors and Awards
 
